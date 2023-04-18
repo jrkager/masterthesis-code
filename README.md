@@ -1,4 +1,4 @@
-# Computer-Assisted Proofs for Combinatorial Feasi- bility Problems via Mixed Integer Programming
+# Computer-Assisted Proofs for Combinatorial Feasibility Problems via Mixed Integer Programming
 
 Code used in my masterthesis at TUM, Faculty of Mathematics, under superivision of Prof. Weltge.
 
